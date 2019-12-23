@@ -1,10 +1,6 @@
 Welcome to the BetterNether wiki!
 
-This wiki will contain all information about BetterNether mod.
+This wiki will contain information about BetterNether mod.
 
-Contents:
-- Plants
-- Materials
-- Decorations
-- Food
-- Tools
+## Contents:
+* [Biomes](https://github.com/paulevsGitch/BetterNether/wiki/Biomes)
