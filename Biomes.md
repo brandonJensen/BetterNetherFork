@@ -10,7 +10,17 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * [Nether Jungle](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-jungle)
 * [Wart Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#wart-forest)
 
+## Sub-Biomes List
+* [Bone Reef](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#bone-reef)
+* [Mushroom Forest Edge](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#mushroom-forest-edge)
+* [Poor Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#poor-grasslands)
+* [Wart Forest Edge](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#wart-forest-edge)
+
+***
+# Biomes
+
 ## Empty Nether
+[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Description:** Just default Nether as common. Doesn't contain any plants, but can have different structures, like abandoned buildings.
 
 ## Gravel Desert
@@ -52,3 +62,32 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * **Plants:** Wart trees, Black bush, Nether Wart.
 * **Screenshot:**
 ![Wart Forest](https://sun9-22.userapi.com/c846017/v846017997/10a0fd/5tGHuAvkTB8.jpg)
+
+***
+# Sub-Biomes
+
+## Bone Reef
+* **Parent Biome:** [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
+* **Description:**  Small space covered with bones formations.
+* **Terrain:** Nether Moss, Netherrack and Soul Sand.
+* **Plants:** Bone mushrooms.
+* **Screenshot:**
+![Bone Reef](https://sun9-70.userapi.com/c849132/v849132646/10986f/2w1mfCTxpd4.jpg)
+
+## Mushroom Forest Edge
+* **Parent Biome:** [Mushroom Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#mushroom-forest)
+* **Description:**  Edge of forest with lower plant density.
+* **Terrain:** Nether Mycelium and Soul Sand.
+* **Plants:** Nether Wart Trees, Nether Wart, Black Bush.
+
+## Poor Grasslands
+* **Parent Biome:** [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
+* **Description:**  Grasslands with lower plants density.
+* **Terrain:** Nether Moss, Netherrack and Soul Sand.
+* **Plants:** Egg Plants, Nether Grass, Smoker, Wart Bush, Black Bush, Ink bush, Nether Wart, Black Apple.
+
+## Wart Forest Edge
+* **Parent Biome:** [Wart Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#wart-forest)
+* **Description:**  Edge of forest with lower plant density.
+* **Terrain:** Nether Moss and Soul Sand.
+* **Plants:** Nether Wart Trees, Nether Wart, Black Bush.
