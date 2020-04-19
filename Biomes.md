@@ -5,15 +5,23 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 ## Biome List:
 * [Empty Nether](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#empty-nether)
 * [Gravel Desert](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#gravel-desert)
+* [Magma Land](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#magma-land)
 * [Mushroom Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#mushroom-forest)
 * [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
 * [Nether Jungle](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-jungle)
+* [Nether Swampland](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-swampland)
 * [Wart Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#wart-forest)
 
 ## Sub-Biomes List
 * [Bone Reef](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#bone-reef)
+* [Crimson Glowing Woods](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#crimson-glowing-woods)
+* [Crimson Pinewood](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#crimson-pinewood)
 * [Mushroom Forest Edge](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#mushroom-forest-edge)
+* [Nether Swampland Terraces](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-swampland-terraces)
+* [Old Fungiwoods](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#old-fungiwoods)
+* [Old Warped Woods](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#old-warped-woods)
 * [Poor Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#poor-grasslands)
+* [Soul Plain](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#soul-plain)
 * [Wart Forest Edge](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#wart-forest-edge)
 
 ***
@@ -30,6 +38,8 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * **Plants:** Nether Cactus, Agave, Barrel Cactus.
 * **Screenshot:**
 ![Gravel Desert](https://sun9-55.userapi.com/c848628/v848628875/9c73f/e_4QLNJ5qts.jpg)
+
+## Magma Land
 
 ## Mushroom Forest
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
@@ -55,6 +65,8 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * **Screenshot:**
 ![Nether Jungle](https://sun9-5.userapi.com/c846017/v846017997/10a107/S58egbH5tKQ.jpg)
 
+## Nether Swampland
+
 ## Wart Forest
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Description:**  Dense forest of wart trees with some small bushes.
@@ -75,6 +87,10 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * **Screenshot:**
 ![Bone Reef](https://sun9-70.userapi.com/c849132/v849132646/10986f/2w1mfCTxpd4.jpg)
 
+## Crimson Glowing Woods
+
+## Crimson Pinewood
+
 ## Mushroom Forest Edge
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Parent Biome:** [Mushroom Forest](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#mushroom-forest)
@@ -82,12 +98,20 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 * **Terrain:** Nether Mycelium and Soul Sand.
 * **Plants:** Nether Wart Trees, Nether Wart, Black Bush.
 
+## Nether Swampland Terraces
+
+## Old Fungiwoods
+
+## Old Warped Woods
+
 ## Poor Grasslands
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Parent Biome:** [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
 * **Description:**  Grasslands with lower plants density.
 * **Terrain:** Nether Moss, Netherrack and Soul Sand.
 * **Plants:** Egg Plants, Nether Grass, Smoker, Wart Bush, Black Bush, Ink bush, Nether Wart, Black Apple.
+
+## Soul Plain
 
 ## Wart Forest Edge
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
