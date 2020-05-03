@@ -1,10 +1,10 @@
 BetterNether adds some blocks to make survival in the Nether easier. They are actually craft station, mostly extending vanilla-ones, but some of them have their own unique abilities.
 
 ## Craft Stations List:
-- [[Netherrack Furnace|netherrack-furnace]]
-- [[Cincinnasite Forge|]]
-- [[Cincinnasite Anvil|]]
-- [[Nether Brewing Stand|]]
+- [Netherrack Furnace](#netherrack-furnace)
+- [Cincinnasite Forge](#cincinnasite-forge)
+- [Cincinnasite Anvil](#cincinnasite-anvil)
+- [Nether Brewing Stand](#nether-brewing-stand)
 
 ***
 
