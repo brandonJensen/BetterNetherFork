@@ -1,6 +1,6 @@
 <style>
 	table {border: none;}
-<style>
+</style>
 
 BetterNether adds some blocks to make survival in the Nether easier. They are actually craft station, mostly extending vanilla-ones, but some of them have their own unique abilities.
 
