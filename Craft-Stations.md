@@ -1,3 +1,7 @@
+<style>
+	table {border: none;}
+<style>
+
 BetterNether adds some blocks to make survival in the Nether easier. They are actually craft station, mostly extending vanilla-ones, but some of them have their own unique abilities.
 
 ## Craft Stations List:
@@ -9,7 +13,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 ***
 
 ## Netherrack Furnace
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
 		<td colspan="2"><h2>Netherrack Furnace</h2></td>
 	</tr>
