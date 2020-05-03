@@ -8,7 +8,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 
 ***
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 	<tr>
 		<td colspan="2"><h2>Netherrack Furnace</h2></td>
 	</tr>
@@ -19,7 +19,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 </table>
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 	<tr>
 		<td colspan="2"><h2>Cincinnasite Forge</h2></td>
 	</tr>
@@ -30,7 +30,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 </table>
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 	<tr>
 		<td colspan="2"><h2>Cincinnasite Anvil</h2></td>
 	</tr>
@@ -41,7 +41,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 </table>
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 	<tr>
 		<td colspan="2"><h2>Nether Brewing Stand</h2></td>
 	</tr>
