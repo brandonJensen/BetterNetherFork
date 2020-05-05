@@ -43,14 +43,18 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			<div align="justify">
 				<b>Cincinnasite Forge</b> is more powerful than normal furnace — it can process items with X2 speed consuming same amount of fuel.
 			</div>
-		</td>
-		<td width="256"><img src="./images/cincinnasite_forge.png"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
+			<br>
 			<div align="center">
 				<img src="./recipes/recipe_cincinnasite_forge.png" height="200">
 			</div>
+		</td>
+		<td width="256">
+			<img src="./images/cincinnasite_forge.png">
+			<br>
+			<ul>
+				<li><b>Tool:</b> Pickaxe</li>
+				<li><b>Stack:</b> 64</li>
+			</ul>
 		</td>
 	</tr>
 </table>
@@ -65,14 +69,18 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			<div align="justify">
 				<b>Cincinnasite Anvil</b> is a simple anvil made from Forged Cincinnasite and Nether Bricks. It can be used as a normal one.
 			</div>
-		</td>
-		<td width="256"><img src="./images/cincinnasite_anvil.png"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
+			<br>
 			<div align="center">
 				<img src="./recipes/recipe_cincinnasite_anvil.png" height="200">
 			</div>
+		</td>
+		<td width="256">
+			<img src="./images/cincinnasite_anvil.png">
+			<br>
+			<ul>
+				<li><b>Tool:</b> Pickaxe</li>
+				<li><b>Stack:</b> 64</li>
+			</ul>
 		</td>
 	</tr>
 </table>
@@ -87,14 +95,26 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			<div align="justify">
 				<b>Nether Brewing Stand</b> has a bit different craft recipe than normal one, but can process more recipes (for example - extracting water from Barrel Cactus).
 			</div>
-		</td>
-		<td width="256"><img src="./images/nether_brewing_stand.png"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
+			<br>
 			<div align="center">
 				<img src="./recipes/recipe_nether_brewing_stand.png" height="200">
 			</div>
 		</td>
+		<td width="256">
+			<img src="./images/nether_brewing_stand.png">
+			<br>
+			<ul>
+				<li><b>Tool:</b> Pickaxe</li>
+				<li><b>Stack:</b> 64</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div align="center"><b>Recipes:</b></div>
+			<br>
+			<img src="./recipes/brewing_water.gif">
+		</td>
 	</tr>
 </table>
+<br>
