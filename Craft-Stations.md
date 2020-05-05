@@ -35,8 +35,19 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 		<td colspan="2"><h2>Cincinnasite Forge</h2></td>
 	</tr>
 	<tr>
-		<td><b>Cincinnasite Forge</b> is more powerful than normal furnace — it can process items with X2 speed consuming same amount of fuel.</td>
-		<td><img src="./images/cincinnasite_forge.png" height="300"></td>
+		<td>
+			<div align="justify">
+				<b>Cincinnasite Forge</b> is more powerful than normal furnace — it can process items with X2 speed consuming same amount of fuel.
+			</div>
+		</td>
+		<td width="256"><img src="./images/cincinnasite_forge.png"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div align="center">
+				<img src="./recipes/recipe_cincinnasite_forge.png" height="200">
+			</div>
+		</td>
 	</tr>
 </table>
 <br>
@@ -46,8 +57,19 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 		<td colspan="2"><h2>Cincinnasite Anvil</h2></td>
 	</tr>
 	<tr>
-		<td><b>Cincinnasite Anvil</b> is a simple anvil made from Forged Cincinnasite and Nether Bricks. It can be used as a normal one.</td>
-		<td><img src="./images/cincinnasite_anvil.png" height="300"></td>
+		<td>
+			<div align="justify">
+				<b>Cincinnasite Anvil</b> is a simple anvil made from Forged Cincinnasite and Nether Bricks. It can be used as a normal one.
+			</div>
+		</td>
+		<td width="256"><img src="./images/cincinnasite_anvil.png"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div align="center">
+				<img src="./recipes/recipe_cincinnasite_anvil.png" height="200">
+			</div>
+		</td>
 	</tr>
 </table>
 <br>
@@ -57,8 +79,18 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 		<td colspan="2"><h2>Nether Brewing Stand</h2></td>
 	</tr>
 	<tr>
-		<td><b>Nether Brewing Stand</b> has a bit different craft recipe than normal one, but can process more recipes (for example - extracting water from Barrel Cactus)</td>
-		<td><img src="./images/nether_brewing_stand.png" height="300"></td>
+		<td>
+			<div align="justify">
+				<b>Nether Brewing Stand</b> has a bit different craft recipe than normal one, but can process more recipes (for example - extracting water from Barrel Cactus).
+			</div>
+		</td>
+		<td width="256"><img src="./images/nether_brewing_stand.png"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<div align="center">
+				<img src="./recipes/recipe_nether_brewing_stand.png" height="200">
+			</div>
+		</td>
 	</tr>
 </table>
-<br>
