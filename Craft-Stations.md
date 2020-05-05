@@ -17,7 +17,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 		<td><img src="./images/netherrack_furnace.png" width="300" height="300"></td>
 	</tr>
 	<tr>
-		<td colspan="2"><img src="./recipes/recipe_netherrack_furnace.png" align="center"></td>
+		<td colspan="2"><p align="center"><img src="./recipes/recipe_netherrack_furnace.png"></p></td>
 	</tr>
 </table>
 <br>
