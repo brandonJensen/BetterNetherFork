@@ -17,14 +17,16 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			<div align="justify">
 				<b>Netherrack Furnace</b> is a basic furnace, that works like furnace from cobblestone. It can be easily crafted on the start, like cobblestone furnace from the game.
 			</div>
-		</td>
-		<td width="256"><img src="./images/netherrack_furnace.png"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
 			<div align="center">
 				<img src="./recipes/recipe_netherrack_furnace.png" height="200">
 			</div>
+		</td>
+		<td width="256">
+			<img src="./images/netherrack_furnace.png">
+			<ul>
+				<li><b>Tool:</b> Pickaxe</li>
+				<li><b>Stack:</b> 64</li>
+			</ul>
 		</td>
 	</tr>
 </table>
