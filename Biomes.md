@@ -55,12 +55,12 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 						<li>Firefly</li>
 						<li>Hydrogen Jellyfish</li>
 						<li>Naga</li>
-						<li>[Enderman (rare)](https://minecraft.gamepedia.com/Enderman)</li>
-						<li>[Hoglin](https://minecraft.gamepedia.com/Hoglin)</li>
-						<li>[Magma Cube (rare)](https://minecraft.gamepedia.com/Magma_Cube)</li>
-						<li>[Piglin](https://minecraft.gamepedia.com/Piglin)</li>
-						<li>[Strider (in lava)](https://minecraft.gamepedia.com/Strider)</li>
-						<li>[Zombified Piglin](https://minecraft.gamepedia.com/Zombie_Pigman)</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
 					</ul>
 				</li>
 			</ul>
