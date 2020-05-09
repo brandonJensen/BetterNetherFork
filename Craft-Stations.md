@@ -19,11 +19,11 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			</div>
 			<br>
 			<div align="center">
-				<img src="./recipes/recipe_netherrack_furnace.png" height="200">
+				<img src="./images/recipes/crafting/recipe_netherrack_furnace.png" height="200">
 			</div>
 		</td>
 		<td width="256">
-			<img src="./images/netherrack_furnace.png">
+			<img src="./images/blocks/netherrack_furnace.png">
 			<br>
 			<ul>
 				<li><b>Tool:</b> Pickaxe</li>
@@ -45,11 +45,11 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			</div>
 			<br>
 			<div align="center">
-				<img src="./recipes/recipe_cincinnasite_forge.png" height="200">
+				<img src="./images/recipes/crafting/recipe_cincinnasite_forge.png" height="200">
 			</div>
 		</td>
 		<td width="256">
-			<img src="./images/cincinnasite_forge.png">
+			<img src="./images/blocks/cincinnasite_forge.png">
 			<br>
 			<ul>
 				<li><b>Tool:</b> Pickaxe</li>
@@ -71,11 +71,11 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			</div>
 			<br>
 			<div align="center">
-				<img src="./recipes/recipe_cincinnasite_anvil.png" height="200">
+				<img src="./images/recipes/crafting/recipe_cincinnasite_anvil.png" height="200">
 			</div>
 		</td>
 		<td width="256">
-			<img src="./images/cincinnasite_anvil.png">
+			<img src="./images/blocks/cincinnasite_anvil.png">
 			<br>
 			<ul>
 				<li><b>Tool:</b> Pickaxe</li>
@@ -97,11 +97,11 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			</div>
 			<br>
 			<div align="center">
-				<img src="./recipes/recipe_nether_brewing_stand.png" height="200">
+				<img src="./images/recipes/crafting/recipe_nether_brewing_stand.png" height="200">
 			</div>
 		</td>
 		<td width="256">
-			<img src="./images/nether_brewing_stand.png">
+			<img src="./images/blocks/nether_brewing_stand.png">
 			<br>
 			<ul>
 				<li><b>Tool:</b> Pickaxe</li>
@@ -114,7 +114,7 @@ BetterNether adds some blocks to make survival in the Nether easier. They are ac
 			<div align="center"><b>Recipes:</b></div>
 			<br>
 			<div align="center">
-				<img src="./brewing/brewing_water.gif" height="200">
+				<img src="./images/recipes/brewing/brewing_water.gif" height="200">
 			</div>
 		</td>
 	</tr>
