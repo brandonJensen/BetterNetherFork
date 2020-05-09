@@ -32,8 +32,8 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 		<td colspan="2"><h2>Gravel Desert</h2></td>
 	</tr>
 	<tr>
-		<td>
-			<div align="justify" valign="top">
+		<td valign="top">
+			<div align="justify">
 				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses.
 			</div>
 		</td>
