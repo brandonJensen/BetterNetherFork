@@ -36,11 +36,6 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses. It is safe for player to walk here if it is neat enough.
 			</div>
-		</td>
-		<td width="400">
-			<div align="center">
-				<img src="./images/biomes/gravel_desert.png" width="400">
-			</div>
 			<ul>
 				<li><b>Terrain:</b> Gravel</li>
 				<li><b>Plants:</b>
@@ -64,6 +59,14 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 					</ul>
 				</li>
 			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/gravel_desert.png" width="400">
+			</div>
+			<div align="center">
+				<img src="./images/biomes/gravel_desert_2.jpg" width="400">
+			</div>
 		</td>
 	</tr>
 </table>
