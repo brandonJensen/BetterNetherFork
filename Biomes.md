@@ -27,9 +27,28 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 ***
 # Biomes
 
-## Empty Nether
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Description:** Just default Nether as common. Doesn't contain any plants, but can have different structures, like abandoned buildings.
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Gravel Desert</h2></td>
+	</tr>
+	<tr>
+		<td>
+			<div align="center">
+				<img src="./images/biomes/gravel_desert.png" height="200">
+			</div>
+		</td>
+		<td>
+			<div align="justify">
+				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses.
+			</div>
+			<ul>
+				<li><b>Terrain:</b> Gravel</li>
+				<li><b>Plants:</b> Nether Cactus, Agave, Barrel Cactus</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Gravel Desert
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
