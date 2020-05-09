@@ -33,22 +33,19 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 	</tr>
 	<tr>
 		<td>
-			<ul>
-				<li><b>Terrain:</b> Gravel</li>
-				<li><b>Plants:</b> Nether Cactus, Agave, Barrel Cactus</li>
-			</ul>
+			<div align="justify">
+				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses.
+			</div>
 		</td>
 		<td>
 			<div align="center">
 				<img src="./images/biomes/gravel_desert.png" height="200">
 			</div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<div align="justify">
-				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses.
-			</div>
+			<br>
+			<ul>
+				<li><b>Terrain:</b> Gravel</li>
+				<li><b>Plants:</b> Nether Cactus, Agave, Barrel Cactus</li>
+			</ul>
 		</td>
 	</tr>
 </table>
