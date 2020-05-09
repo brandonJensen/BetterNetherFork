@@ -200,6 +200,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<ul>
 				<li><b>Fog Color:</b> Magenta</li>
 				<li><b>Terrain:</b> Nether Mycelium</li>
+				<li><b>Parent Biome:</b> [[Mushroom Forest|#mushroom-forest]]</li>
 				<li>
 					<b>Mushrooms:</b>
 					<ul>
@@ -252,7 +253,13 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			</div>
 			<ul>
 				<li><b>Fog Color:</b> Blue</li>
-				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil.</li>
+				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil</li>
+				<li><b>Subbiomes:</b>
+					<ul>
+						<li>[[Bone Reef|#bone-reef]]</li>
+						<li>[[Poor Nether Grasslands|#poor-nether-grasslands]]</li>
+					</ul>
+				</li>
 				<li>
 					<b>Plants:</b>
 					<ul>
@@ -262,6 +269,8 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 						<li>[[Wart Seed|Plants#wart-seed]]</li>
 						<li>[[Black Apple|Plants#black-apple]]</li>
 						<li>[[Nether Grass|Plants#nether-grass]]</li>
+						<li>[[Nether Reeds|Plants#nether-reeds]]</li>
+						<li>[[Wall Moss|Plants#wall-moss]]</li>
 					</ul>
 				</li>
 				<li>
@@ -303,6 +312,122 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 </table>
 <br>
 
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Bone Reef</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Bone Reef</b> is a biome with big structures from bones and parts of large fauna skeletons. Bones are sometimes covered with specific mushrooms.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Lime</li>
+				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil</li>
+				<li><b>Parent Biome:</b> [[Nether Grasslands|#nether-grasslands]]</li>
+				<li>
+					<b>Plants:</b>
+					<ul>
+						<li>[[Nether Grass|Plants#nether-grass]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Bone Mushroom|Plants#bone-mushroom]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/bone_reef.png" width="400">
+			</div>
+			<div align="center">
+				<b>Pre 1.16:</b>
+			</div>
+			<div align="center">
+				<img src="./images/biomes/bone_reef_2.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
+
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Poor Nether Grasslands</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Poor Nether Grasslands</b> are mostly like [[Nether Grasslands|#nether-grasslands]], except there is not a lot of plants and they are rarely scattered.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Blue</li>
+				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil.</li>
+				<li><b>Parent Biome:</b> [[Nether Grasslands|#nether-grasslands]]</li>
+				<li>
+					<b>Plants:</b>
+					<ul>
+						<li>[[Smoker|Plants#smoker]]</li>
+						<li>[[Black Bush|Plants#black-bush]]</li>
+						<li>[[Ink Bush|Plants#ink-bush]]</li>
+						<li>[[Wart Seed|Plants#wart-seed]]</li>
+						<li>[[Black Apple|Plants#black-apple]]</li>
+						<li>[[Nether Grass|Plants#nether-grass]]</li>
+						<li>[[Nether Reeds|Plants#nether-reeds]]</li>
+						<li>[[Wall Moss|Plants#wall-moss]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Brown Wall Mushroom|Plants#brown-wall-mushroom]]</li>
+						<li>[[Red Wall Mushroom|Plants#red-wall-mushroom]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/poor_grasslands.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
+
 ## Nether Jungle
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Description:** Very dense forest of some strange plants.
@@ -324,15 +449,6 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 ***
 # Sub-Biomes
 
-## Bone Reef
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Parent Biome:** [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
-* **Description:**  Small space covered with bones formations.
-* **Terrain:** Nether Moss, Netherrack and Soul Sand.
-* **Plants:** Bone mushrooms.
-* **Screenshot:**
-![Bone Reef](https://sun9-70.userapi.com/c849132/v849132646/10986f/2w1mfCTxpd4.jpg)
-
 ## Crimson Glowing Woods
 
 ## Crimson Pinewood
@@ -346,16 +462,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 
 ## Nether Swampland Terraces
 
-## Old Fungiwoods
-
 ## Old Warped Woods
-
-## Poor Grasslands
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Parent Biome:** [Nether Grasslands](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#nether-grasslands)
-* **Description:**  Grasslands with lower plants density.
-* **Terrain:** Nether Moss, Netherrack and Soul Sand.
-* **Plants:** Egg Plants, Nether Grass, Smoker, Wart Bush, Black Bush, Ink bush, Nether Wart, Black Apple.
 
 ## Soul Plain
 
