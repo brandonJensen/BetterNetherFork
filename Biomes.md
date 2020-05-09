@@ -45,7 +45,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 				<li><b>Terrain:</b> Gravel</li>
 				<li><b>Plants:</b>
 					<ul>
-						<li>[[Agave|Plants\Agave]]</li>
+						<li>[[Agave|Plants#agave]]</li>
 						<li>Barrel Cactus</li>
 						<li>Nether Cactus</li>
 					</ul>
