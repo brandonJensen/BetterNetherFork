@@ -121,6 +121,66 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 </table>
 <br>
 
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Mushroom Forest</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Mushroom Forest</b> covered with medium-sized mushrooms and molds. It is a good place to hide from ghasts. You can find different useful mushrooms here — dye, wood and glowstone sources.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Magenta</li>
+				<li><b>Terrain:</b> Nether Mycelium</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Large Brown Mushroom|Plants#large-brown-mushroom]]</li>
+						<li>[[Large Red Mushroom|Plants#large-red-mushroom]]</li>
+						<li>[[Large Mold|Plants#large-mold]]</li>
+						<li>[[Mushroom Fir|Plants#mushroom-fir]]</li>
+						<li>[[Red Mold|Plants#red-mold]]</li>
+						<li>[[Gray Mold|Plants#gray-mold]]</li>
+						<li>[[Orange Mushroom|Plants#orange-mushroom]]</li>
+						<li>[[Lucis|Plants#lucis]]</li>
+						<li>[[Brown Wall Mushroom|Plants#brown-wall-mushroom]]</li>
+						<li>[[Red Wall Mushroom|Plants#red-wall-mushroom]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Mushroom">Brown Mushroom</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Mushroom">Red Mushroom</a></li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/mushroom_forest.png" width="400">
+			</div>
+			<div align="center">
+				<b>Pre 1.16:</b>
+			</div>
+			<div align="center">
+				<img src="./images/biomes/mushroom_forest_2.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
+
 ## Mushroom Forest
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Description:** Area covered with medium sized mushrooms and molds. Good place to hide from ghasts.
