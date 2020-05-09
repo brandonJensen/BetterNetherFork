@@ -37,15 +37,18 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses. It is safe for player to walk here if it is neat enough.
 			</div>
 			<ul>
+				<li><b>Fog Color:</b> Orange</li>
 				<li><b>Terrain:</b> Gravel</li>
-				<li><b>Plants:</b>
+				<li>
+					<b>Plants:</b>
 					<ul>
 						<li>[[Agave|Plants#agave]]</li>
-						<li>Barrel Cactus</li>
-						<li>Nether Cactus</li>
+						<li>[[Barrel Cactus|Plants#barrel-cactus]]</li>
+						<li>[[Nether Cactus|Plants#nether-cactus]]</li>
 					</ul>
 				</li>
-				<li><b>Mobs:</b>
+				<li>
+					<b>Mobs:</b>
 					<ul>
 						<li>Firefly</li>
 						<li>Hydrogen Jellyfish</li>
@@ -75,15 +78,48 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 </table>
 <br>
 
-## Gravel Desert
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Description:** Big semi-empty spaces of gravel fields with cactuses.
-* **Terrain:** Ground made from Gravel.
-* **Plants:** Nether Cactus, Agave, Barrel Cactus.
-* **Screenshot:**
-![Gravel Desert](https://sun9-55.userapi.com/c848628/v848628875/9c73f/e_4QLNJ5qts.jpg)
-
-## Magma Land
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Magma Land</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Magma Land</b> is a molten rock area with magma and lava veins. Big sharp obsidian crystals protrude tens of meters above the surface. Ceiling is covered with glowing vines. On the surface you can find active geysers.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Yellow</li>
+				<li><b>Terrain:</b> Netherrack, Magma, Lava</li>
+				<li>
+					<b>Plants:</b>
+					<ul>
+						<li>[[Golden Vine|Plants#golden-vine]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>Firefly</li>
+						<li>Hydrogen Jellyfish</li>
+						<li>Naga</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/magma_land.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Mushroom Forest
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
