@@ -50,9 +50,9 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 				<li>
 					<b>Mobs:</b>
 					<ul>
-						<li>Firefly</li>
-						<li>Hydrogen Jellyfish</li>
-						<li>Naga</li>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
 						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
@@ -99,9 +99,9 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 				<li>
 					<b>Mobs:</b>
 					<ul>
-						<li>Firefly</li>
-						<li>Hydrogen Jellyfish</li>
-						<li>Naga</li>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
 						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
