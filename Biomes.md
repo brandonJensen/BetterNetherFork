@@ -65,7 +65,10 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 				<img src="./images/biomes/gravel_desert.png" width="400">
 			</div>
 			<div align="center">
-				<img src="./images/biomes/gravel_desert_2.jpg" width="400">
+				<b>Pre 1.16:</b>
+			</div>
+			<div align="center">
+				<img src="./images/biomes/gravel_desert_2.png" width="400">
 			</div>
 		</td>
 	</tr>
