@@ -34,17 +34,35 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 	<tr>
 		<td valign="top">
 			<div align="justify">
-				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses.
+				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses. It is safe for player to walk here if it is neat enough.
 			</div>
 		</td>
 		<td>
 			<div align="center">
 				<img src="./images/biomes/gravel_desert.png" width="400">
 			</div>
-			<br>
 			<ul>
 				<li><b>Terrain:</b> Gravel</li>
-				<li><b>Plants:</b> Nether Cactus, Agave, Barrel Cactus</li>
+				<li><b>Plants:</b>
+					<ul>
+						<li>Agave</li>
+						<li>Barrel Cactus</li>
+						<li>Nether Cactus</li>
+					</ul>
+				</li>
+				<li><b>Mobs:</b>
+					<ul>
+						<li>Firefly</li>
+						<li>Hydrogen Jellyfish</li>
+						<li>Naga</li>
+						<li>[Enderman (rare)](https://minecraft.gamepedia.com/Enderman)</li>
+						<li>[Hoglin](https://minecraft.gamepedia.com/Hoglin)</li>
+						<li>[Magma Cube (rare)](https://minecraft.gamepedia.com/Magma_Cube)</li>
+						<li>[Piglin](https://minecraft.gamepedia.com/Piglin)</li>
+						<li>[Strider (in lava)](https://minecraft.gamepedia.com/Strider)</li>
+						<li>[Zombified Piglin](https://minecraft.gamepedia.com/Zombie_Pigman)</li>
+					</ul>
+				</li>
 			</ul>
 		</td>
 	</tr>
