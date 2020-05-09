@@ -103,6 +103,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
 						<li>[[Naga|Mobs#naga]]</li>
 						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
@@ -133,6 +134,11 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<ul>
 				<li><b>Fog Color:</b> Magenta</li>
 				<li><b>Terrain:</b> Nether Mycelium</li>
+				<li><b>Subbiomes:</b>
+					<ul>
+						<li>[[Old Fungiwoods|#old-fungiwoods]]</li>
+					</ul>
+				</li>
 				<li>
 					<b>Mushrooms:</b>
 					<ul>
@@ -157,6 +163,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
 						<li>[[Naga|Mobs#naga]]</li>
 						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
 						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
@@ -181,21 +188,120 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 </table>
 <br>
 
-## Mushroom Forest
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Description:** Area covered with medium sized mushrooms and molds. Good place to hide from ghasts.
-* **Terrain:** Nether Mycelium and Soul Sand.
-* **Plants:** Large mushroom trees - Red and Brown, Lucis, Nether Wart, 3 different colored mushrooms as a source of dyes.
-* **Screenshot:**
-![Mushroom Forest](https://sun9-55.userapi.com/c845418/v845418170/149419/Jar1Mm8ofpU.jpg)
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Old Fungiwoods</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Old Fungiwoods</b> is a subbiome for [[Mushroom Forest|#mushroom-forest]]. In addition to ordinary mushrooms, here you can find really huge ones.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Magenta</li>
+				<li><b>Terrain:</b> Nether Mycelium</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Large Brown Mushroom|Plants#large-brown-mushroom]]</li>
+						<li>[[Large Red Mushroom|Plants#large-red-mushroom]]</li>
+						<li>[[Red Mold|Plants#red-mold]]</li>
+						<li>[[Gray Mold|Plants#gray-mold]]</li>
+						<li>[[Orange Mushroom|Plants#orange-mushroom]]</li>
+						<li>[[Lucis|Plants#lucis]]</li>
+						<li>[[Brown Wall Mushroom|Plants#brown-wall-mushroom]]</li>
+						<li>[[Red Wall Mushroom|Plants#red-wall-mushroom]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Mushroom">Brown Mushroom</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Mushroom">Red Mushroom</a></li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/old_fungiwoods.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
 
-## Nether Grasslands
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
-* **Description:** Grassy places with some bushes.
-* **Terrain:** Nether Moss, Netherrack and Soul Sand.
-* **Plants:** Egg Plants, Nether Grass, Smoker, Wart Bush, Black Bush, Ink bush, Nether Wart, Black Apple.
-* **Screenshot:**
-![Nether Grasslands](https://sun9-38.userapi.com/c846017/v846017997/10a111/hQwZqG_pr2E.jpg)
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Nether Grasslands</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Nether Grasslands</b> are grassy places with some bushes. It is safe to travel if there are no ghasts around.
+			</div>
+			<ul>
+				<li><b>Fog Color:</b> Blue</li>
+				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil.</li>
+				<li>
+					<b>Plants:</b>
+					<ul>
+						<li>[[Smoker|Plants#smoker]]</li>
+						<li>[[Black Bush|Plants#black-bush]]</li>
+						<li>[[Ink Bush|Plants#ink-bush]]</li>
+						<li>[[Wart Seed|Plants#wart-seed]]</li>
+						<li>[[Black Apple|Plants#black-apple]]</li>
+						<li>[[Nether Grass|Plants#nether-grass]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Brown Wall Mushroom|Plants#brown-wall-mushroom]]</li>
+						<li>[[Red Wall Mushroom|Plants#red-wall-mushroom]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/grasslands.png" width="400">
+			</div>
+			<div align="center">
+				<b>Pre 1.16:</b>
+			</div>
+			<div align="center">
+				<img src="./images/biomes/grasslands_2.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Nether Jungle
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
