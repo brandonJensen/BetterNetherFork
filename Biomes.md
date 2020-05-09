@@ -36,6 +36,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Gravel Desert</b> is a big semi-empty space of gravel fields with cactuses. It is safe for player to walk here if it is neat enough.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Orange</li>
 				<li><b>Terrain:</b> Gravel</li>
@@ -87,6 +88,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Magma Land</b> is a molten rock area with magma and lava veins. Big sharp obsidian crystals protrude tens of meters above the surface. Ceiling is covered with glowing vines. On the surface you can find active geysers.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Yellow</li>
 				<li><b>Terrain:</b> Netherrack, Magma, Lava</li>
@@ -131,6 +133,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Mushroom Forest</b> covered with medium-sized mushrooms and molds. It is a good place to hide from ghasts. You can find different useful mushrooms here — dye, wood and glowstone sources.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Magenta</li>
 				<li><b>Terrain:</b> Nether Mycelium</li>
@@ -197,6 +200,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Old Fungiwoods</b> is a subbiome for [[Mushroom Forest|#mushroom-forest]]. In addition to ordinary mushrooms, here you can find really huge ones.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Magenta</li>
 				<li><b>Terrain:</b> Nether Mycelium</li>
@@ -251,6 +255,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Nether Grasslands</b> are grassy places with some bushes. It is safe to travel if there are no ghasts around.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Blue</li>
 				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil</li>
@@ -321,6 +326,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Bone Reef</b> is a biome with big structures from bones and parts of large fauna skeletons. Bones are sometimes covered with specific mushrooms.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Lime</li>
 				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil</li>
@@ -378,6 +384,7 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 			<div align="justify">
 				<b>Poor Nether Grasslands</b> are mostly like [[Nether Grasslands|#nether-grasslands]], except there is not a lot of plants and they are rarely scattered.
 			</div>
+			<br>
 			<ul>
 				<li><b>Fog Color:</b> Blue</li>
 				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil.</li>
