@@ -39,8 +39,8 @@
 				<b>Agave</b> is decorative plant, common for [[Gravel Desert|Biomes#gravel-desert]]. Can be planted into pot.
 			</div>
 		</td>
-		<td width="256">
-			<img src="./images/blocks/netherrack_furnace.png">
+		<td width="512">
+			<img src="./images/plants/agave.png">
 			<br>
 			<ul>
 				<li><b>Tool:</b> Hand</li>
