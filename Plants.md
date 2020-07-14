@@ -54,7 +54,9 @@
 		</td>
 	</tr>
 	<tr>
-		[[Back to top|Plants]]
+		<td>
+			[[Back to top|Plants]]
+		</td>
 	</tr>
 </table>
 <br>
