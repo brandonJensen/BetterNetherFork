@@ -54,7 +54,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2">
 			[[Back to top|Plants]]
 		</td>
 	</tr>
