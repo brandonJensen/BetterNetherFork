@@ -97,7 +97,7 @@
 			<div align="center"><b>Recipes:</b></div>
 			<br>
 			<div align="center">
-				<div>In [Nether Brewing Stand](#nether-brewing-stand):</div>
+				<div>In [[Nether Brewing Stand|Craft-Stations#nether-brewing-stand]]:</div>
 				<br>
 				<img src="./images/recipes/brewing/brewing_water.gif" height="200">
 			</div>
