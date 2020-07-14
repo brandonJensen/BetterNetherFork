@@ -155,8 +155,53 @@
 </table>
 <br>
 
-## Black Bush
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
+<table width="100%">
+	<tr>
+		<td colspan="2">
+		<h2>Black Bush</h2>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Black Bush</b> is a small cube-shaped bush. It is a decorative plant, with special shape in pots.
+			</div>
+			<br>
+			<ul>
+				<li><b>Tool:</b> Hand</li>
+				<li><b>Drop:</b> Itself</li>
+				<li><b>Stack:</b> 64</li>
+				<li><b>Biomes:</b>
+					<ul>
+						<li>[[Nether Grasslands|Biomes#nether-grasslands]]</li>
+						<li>[[Nether Swampland|Biomes#nether-swampland]]</li>
+						<li>[[Nether Swampland Terraces|Biomes#nether-swampland-terraces]]</li>
+						<li>[[Poor Nether Grasslands|Biomes#poor-nether-grasslands]]</li>
+						<li>[[Soul Plain|Biomes#soul-plain]]</li>
+						<li>[[Wart Forest|Biomes#wart-forest]]</li>
+						<li>[[Wart Forest Edge|Biomes#wart-forest-edge]]</li>
+					</ul>
+				</li>
+				<li><b>Grows On:</b>
+					<ul>
+						<li>Netherrack blocks</li>
+						<li>Nylium blocks</li>
+						<li>Soul Sand|Soil blocks</li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="512">
+			<img src="./images/plants/black_bush.png">
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			[[Back to top|Plants]]
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Bone Mushroom
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
