@@ -34,7 +34,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td valign="top">
 			<div align="justify">
 				<b>Agave</b> is decorative plant, common for [[Gravel Desert|Biomes#gravel-desert]]. Can be planted into pot.
 			</div>
