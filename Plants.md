@@ -47,10 +47,63 @@
 						<li>[[Gravel Desert|Biomes#gravel-desert]]</li>
 					</ul>
 				</li>
+				<li><b>Grows On:</b>
+					<ul>
+						<li>Gravel</li>
+					</ul>
+				</li>
 			</ul>
 		</td>
 		<td width="512">
 			<img src="./images/plants/agave.png">
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			[[Back to top|Plants]]
+		</td>
+	</tr>
+</table>
+<br>
+
+<table width="100%">
+	<tr>
+		<td colspan="2">
+		<h2>Barrel Cactus</h2>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Barrel Cactus</b> is a plant, common for [[Gravel Desert|Biomes#gravel-desert]] and useful in potion brewing. Can be planted into pot.
+			</div>
+			<br>
+			<ul>
+				<li><b>Tool:</b> Hand</li>
+				<li><b>Drop:</b> Itself</li>
+				<li><b>Stack:</b> 64</li>
+				<li><b>Biomes:</b>
+					<ul>
+						<li>[[Gravel Desert|Biomes#gravel-desert]]</li>
+					</ul>
+				</li>
+				<li><b>Grows On:</b>
+					<ul>
+						<li>Gravel</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			<div align="center"><b>Recipes:</b></div>
+			<br>
+			<div align="center">
+				<div>In [Nether Brewing Stand](#nether-brewing-stand):</div>
+				<br>
+				<img src="./images/recipes/brewing/brewing_water.gif" height="200">
+			</div>
+		</td>
+		<td width="512">
+			<img src="./images/plants/barrel_cactus.png">
 		</td>
 	</tr>
 	<tr>
