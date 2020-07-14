@@ -435,6 +435,65 @@ Biomes in mod are volumetric - they have vertical and horizontal variance. As a 
 </table>
 <br>
 
+<table width="100%">
+	<tr>
+		<td colspan="2"><h2>Nether Jungle</h2></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Nether Jungle</b> is a very dense forest from rubeus trees in open space and stalagnates in caves. It is filled with poisonous plants, you must be careful when travel here.
+			</div>
+			<br>
+			<ul>
+				<li><b>Fog Color:</b> Blue</li>
+				<li><b>Terrain:</b> Nether Moss, Netherrack and Soul Soil.</li>
+				<li>
+					<b>Plants:</b>
+					<ul>
+						<li>[[Smoker|Plants#smoker]]</li>
+						<li>[[Black Bush|Plants#black-bush]]</li>
+						<li>[[Ink Bush|Plants#ink-bush]]</li>
+						<li>[[Wart Seed|Plants#wart-seed]]</li>
+						<li>[[Black Apple|Plants#black-apple]]</li>
+						<li>[[Nether Grass|Plants#nether-grass]]</li>
+						<li>[[Nether Reeds|Plants#nether-reeds]]</li>
+						<li>[[Wall Moss|Plants#wall-moss]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mushrooms:</b>
+					<ul>
+						<li>[[Brown Wall Mushroom|Plants#brown-wall-mushroom]]</li>
+						<li>[[Red Wall Mushroom|Plants#red-wall-mushroom]]</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mobs:</b>
+					<ul>
+						<li>[[Firefly|Mobs#firefly]]</li>
+						<li>[[Hydrogen Jellyfish|Mobs#hydrogen-jellyfish]]</li>
+						<li>[[Naga|Mobs#naga]]</li>
+						<li><a href="https://minecraft.gamepedia.com/Enderman">Enderman (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Ghast">Ghast</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Hoglin">Hoglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Magma_Cube">Magma Cube (rare)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Piglin">Piglin</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Strider">Strider (in lava)</a></li>
+						<li><a href="https://minecraft.gamepedia.com/Zombie_Pigman">Zombified Piglin</a></li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="400">
+			<div align="center">
+				<img src="./images/biomes/poor_grasslands.png" width="400">
+			</div>
+		</td>
+	</tr>
+</table>
+<br>
+
 ## Nether Jungle
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Biomes#biome-list)
 * **Description:** Very dense forest of some strange plants.

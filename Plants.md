@@ -26,8 +26,36 @@
 
 ***
 
-## Agave
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
+<table width="100%">
+	<tr>
+		<td colspan="2">
+		<h2>Agave</h2>
+		<p>[[Back to top|Plants]]</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div align="justify">
+				<b>Agave</b> is decorative plant, common for [[Gravel Desert|Biomes#gravel-desert]]. Can be planted into pot.
+			</div>
+		</td>
+		<td width="256">
+			<img src="./images/blocks/netherrack_furnace.png">
+			<br>
+			<ul>
+				<li><b>Tool:</b> Hand</li>
+				<li><b>Drop:</b> Itself</li>
+				<li><b>Stack:</b> 64</li>
+				<li><b>Biomes:</b>
+					<ul>
+						<li>[[Gravel Desert|Biomes#gravel-desert]]</li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Barrel Cactus
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
