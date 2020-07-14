@@ -112,11 +112,48 @@
 </table>
 <br>
 
-## Barrel Cactus
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
-
-## Black Apple
-[Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
+<table width="100%">
+	<tr>
+		<td colspan="2">
+		<h2>Black Apple</h2>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<div align="justify">
+				<b>Black Apple</b> is grassy plant, rarely founded in [[Nether Grasslands|Biomes#nether-grasslands]]. Its fruit can be used for healing and restore hunger. It has 4 stages of growth.
+			</div>
+			<br>
+			<ul>
+				<li><b>Tool:</b> Hand</li>
+				<li><b>Drop:</b> Black Apple Seed, Black Apple (4 stage)</li>
+				<li><b>Stack:</b> 64</li>
+				<li><b>Biomes:</b>
+					<ul>
+						<li>[[Nether Grasslands|Biomes#nether-grasslands]]</li>
+					</ul>
+				</li>
+				<li><b>Grows On:</b>
+					<ul>
+						<li>Netherrack blocks</li>
+						<li>Nylium blocks</li>
+						<li>Soul Sand|Soil blocks</li>
+						<li>Farmland</li>
+					</ul>
+				</li>
+			</ul>
+		</td>
+		<td width="512">
+			<img src="./images/plants/black_apple.png">
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			[[Back to top|Plants]]
+		</td>
+	</tr>
+</table>
+<br>
 
 ## Black Bush
 [Back to top](https://github.com/paulevsGitch/BetterNether/wiki/Plants)
