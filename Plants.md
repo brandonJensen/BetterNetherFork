@@ -30,7 +30,6 @@
 	<tr>
 		<td colspan="2">
 		<h2>Agave</h2>
-		<p>[[Back to top|Plants]]</p>
 		</td>
 	</tr>
 	<tr>
@@ -53,6 +52,9 @@
 		<td width="512">
 			<img src="./images/plants/agave.png">
 		</td>
+	</tr>
+	<tr>
+		[[Back to top|Plants]]
 	</tr>
 </table>
 <br>
