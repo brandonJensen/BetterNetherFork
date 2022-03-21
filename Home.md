@@ -6,3 +6,4 @@ This wiki will contain information about BetterNether mod.
 * [[Biomes|Biomes]]
 * [[Plants|Plants]]
 * [[Craft Stations|Craft-Stations]]
+* [[Enchantments|Enchantments]]
